@@ -1,6 +1,7 @@
 # 🎛️ EchoForge
 
-![EchoForge Banner](./echoforge_banner.gif)
+![EchoForge Banner](./echoforge_banner.gif)![Download echoforge_banner](https://github.com/user-attachments/assets/9b42839f-7c19-44ce-86fd-13ff6424c61b)
+
 
 **EchoForge** is a sleek and powerful open-source home recording platform for musicians, podcasters, and audio enthusiasts. Designed with simplicity and performance in mind, EchoForge lets you compose, record, edit, and mix high-quality audio with ease.
 
