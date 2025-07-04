@@ -48,13 +48,4 @@
 
 ---
 
-## 📸 Banner Animation
 
-> Add this GIF file to your repo for the banner to render properly in README:
-
-**File**: `echoforge_banner.gif`  
-**How to add it**:
-1. Place `echoforge_banner.gif` in your repo root or assets folder.
-2. Use relative path in the Markdown:  
-   ```markdown
-   ![EchoForge Banner](./echoforge_banner.gif)
